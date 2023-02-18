@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://grand-choux-e1c141.netlify.app/)
-- Live Site URL: [Add live site URL here](https://grand-choux-e1c141.netlify.app/)
+- Solution URL: [Netlify](https://grand-choux-e1c141.netlify.app/)
+- Live Site URL: [Netlify](https://grand-choux-e1c141.netlify.app/)
 
 ## My process
 
@@ -63,6 +63,6 @@ I will want to continously learn how to use template customization values throug
 ## Author
 
 - Website - [Ridwan Kadri](https://www.ridkadri.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ridkadri)
+- Frontend Mentor - [@ridkadri](https://www.frontendmentor.io/profile/ridkadri)
 - Twitter - [@ridCuDi](https://www.twitter.com/ridCuDi)
 
