@@ -57,7 +57,7 @@ I will want to continously learn how to use template customization values throug
 
 ### Useful resources
 
-- [Tailwind Documentation](https://tailwindcss.com/docs) - This helped me for XYZ reason. I really liked this pattern and will use it going forward. The tailwind documentation is a great medium which helpled me throughout the build. I will strongly recommend it to anyone who is building using tailwind css. 
+- [Tailwind Documentation](https://tailwindcss.com/docs) - The tailwind documentation is a great medium which helpled me throughout the build. I will strongly recommend it to anyone who is building using tailwind css. 
 
 
 ## Author
